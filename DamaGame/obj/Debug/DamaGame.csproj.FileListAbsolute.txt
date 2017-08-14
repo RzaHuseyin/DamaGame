@@ -1,0 +1,9 @@
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\bin\Debug\DamaGame.exe.config
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\bin\Debug\DamaGame.exe
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\bin\Debug\DamaGame.pdb
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.csprojResolveAssemblyReference.cache
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.Form1.resources
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.Properties.Resources.resources
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.csproj.GenerateResource.Cache
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.exe
+c:\users\rza\documents\visual studio 2017\Projects\DamaGame\DamaGame\obj\Debug\DamaGame.pdb
